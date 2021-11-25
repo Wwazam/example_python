@@ -30,3 +30,5 @@ def get_neighbours_index(i, j):
 
 if __name__ == "__main__":
     print(get_neighbours_index(3, 3))
+
+# GO LOOK AT THAT https://learngitbranching.js.org/
